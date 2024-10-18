@@ -6,7 +6,7 @@ import hashlib
 hash_values = 'hash_values.json' #this is where it will store the hash values of the file
 
 paths = [ #path for important file location
-    r"/etc/Codenex/something.rtf"
+    r"/path_to_your_files"
 ]
 
 logs = 'integrity_logs.txt' #this is where the logs of the files go
